@@ -1,1 +1,3 @@
-import './style.css';
+import { caesarCipher } from './odinTestingPractice.js';
+
+caesarCipher('Good', 2);
